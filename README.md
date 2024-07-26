@@ -2,3 +2,5 @@
 colors
 mode 
 pic
+videos 
+black background
